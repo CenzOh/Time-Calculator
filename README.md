@@ -1,4 +1,5 @@
-##3 Final Result
+### Final Result
+
 [Repl.it Link for the final result](https://replit.com/@VincenzoMezzio/boilerplate-time-calculator#README.md)
 
 ![Results](success.PNG)
